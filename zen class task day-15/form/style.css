@@ -1,0 +1,26 @@
+.new{
+    margin:20px;
+}
+.heading{
+margin-left: 13rem;
+}
+.assemble{
+    
+    border: 1px solid;
+    margin-left: 25rem;
+    height: 45rem;
+    padding-left: 20px;
+    width: 45rem;
+    margin-top: 5rem;
+    overflow-y: scroll ;
+    height: 35rem;
+
+}
+
+.judge{
+   margin-left:19rem;
+   margin-top: 1rem;
+   margin-bottom: 3rem;
+   padding-left: 25px;
+    padding-right:25px;
+}
